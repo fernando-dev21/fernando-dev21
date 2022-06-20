@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello!
 
-<!--
-**fernando-dev21/fernando-dev21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fernando, i am 25 years old. I am graduating in a I.T course called Multiplataform Software Development at FATEC, the best public technology college in Brazil.
 
-Here are some ideas to get you started:
+💻 Tecnologies:
+Front end: HTML | CSS | JAVASCRIPT
+Back End: SQL | NodeJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 Tools: Figma | Canva | VScode | Eclipse | Postman | Excel
+
+🌱 I’m currently learning JavaScript, SCSS and Java.
+
+📫 How to reach me: E-mail: fernando.dev21@outlook.com | Linkedin: https://www.linkedin.com/in/fernando-josé-silva/
