@@ -1,6 +1,6 @@
 Hello!
 
-My name is Fernando, i am 25 years old. I am graduating in a I.T course called Multiplataform Software Development at FATEC, the best public technology college in Brazil.
+My name is Fernando, I am 25 years old. I am graduating in a I.T course called Multiplataform Software Development at FATEC, the best public technology college in Brazil.
 
 💻 Tecnologies:
 Front end: HTML | CSS | JAVASCRIPT
