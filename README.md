@@ -6,12 +6,9 @@ My name is Fernando, I am 25 years old. I am graduating in a I.T course called M
 Front end: HTML | CSS | JAVASCRIPT
 Back End: SQL | NodeJS
 
-🛠 Tools: Figma | Canva | VScode | Eclipse | Postman | Excel
-
-🌱 I’m currently learning JavaScript, SCSS and Java.
+🛠 Tools: Figma | Canva | VScode | Eclipse | Postman | Excel | Trello | Postman
 
 📫 How to reach me: E-mail: fernando.dev21@outlook.com | Linkedin: https://www.linkedin.com/in/fernando-josé-silva/
-
 
 <div align="center">
   <a href="https://github.com/fernando-dev21">
